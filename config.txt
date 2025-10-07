@@ -1,0 +1,2 @@
+net.nadya.dao.daoImpl
+net.nadya.metier.metierImpl
